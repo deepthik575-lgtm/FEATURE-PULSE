@@ -1,0 +1,21 @@
+review_id,review_text,rating,category,lost_order_value,app_version
+REV_101,"Money was deducted from my bank via Google Pay but the order status says cancelled immediately.",1,Billing,850,v2.4.1
+REV_102,"Card payment failed three times during checkout, yet my account got charged twice for the same items.",1,Billing,2400,v2.4.0
+REV_103,"I have been waiting for the 6-digit SMS verification code for 10 minutes and it never arrived on my Airtel SIM.",1,Authentication,0,v2.4.2
+REV_104,"After updating to Android 15, the fingerprint biometric scanner throws an unexpected error and closes the app.",2,Authentication,0,v2.4.2
+REV_105,"The new dark mode update makes white text blend into grey background. I cannot read item descriptions at all.",2,UI/UX,0,v2.4.1
+REV_106,"Whenever I scroll down the product catalog, the screen stutters and freezes for 3 to 4 seconds.",2,UI/UX,650,v2.3.9
+REV_107,"The live GPS delivery rider marker gets stuck on the map and stops updating halfway through delivery.",3,Bug,420,v2.4.2
+REV_108,"Applied coupon code FESTIVE50 which showed ₹200 discount, but the final payment gateway screen charged full price.",2,Billing,1400,v2.4.0
+REV_109,"Auto-read OTP permission failed and the manual submit button stayed greyed out, so I could not sign in.",1,Authentication,0,v2.4.1
+REV_110,"The app crashed completely right when I clicked 'Proceed to Payment' and my entire cart disappeared.",1,Bug,3100,v2.4.0
+REV_111,"Search filter for 'Vegetarian Only' is broken; it keeps displaying non-veg items in search results.",3,Bug,950,v2.4.2
+REV_112,"The 'Add to Cart' button overlaps directly over the bottom navigation bar on smaller screen phones.",2,UI/UX,0,v2.3.8
+REV_113,"Driver marked order as delivered 15 minutes before actually reaching my location. No customer support chat available.",1,Feedback,580,v2.4.1
+REV_114,"Face ID recognition hangs forever on iPhone 15 Pro, forcing me to force-close and enter password manually.",2,Authentication,0,v2.4.2
+REV_115,"Payment gateway times out during UPI intent switch to PhonePe. Had to give up on buying dinner.",1,Billing,1250,v2.4.1
+REV_116,"Push notifications for order confirmation arrive 45 minutes after the food is already eaten.",3,Feedback,0,v2.4.0
+REV_117,"Tried placing a bulk grocery order for the weekend, app threw an unhandled 500 internal server error at checkout.",1,Billing,5200,v2.4.2
+REV_118,"The font size across the settings screen is way too small and does not follow my phone's accessibility settings.",3,UI/UX,0,v2.3.9
+REV_119,"Refund for my damaged order was promised in 2 hours, but it has been 4 days and bank statement shows nothing.",1,Billing,1850,v2.4.0
+REV_120,"Smooth browsing experience and clean layout, but adding an option to tip the delivery rider would be great.",4,Feedback,0,v2.4.2

@@ -1,0 +1,8 @@
+streamlit
+pandas
+chromadb
+sentence-transformers
+google-genai
+#When someone runs pip install -r requirements.txt,
+#  Python's package installer installs the listed dependencies. For reproducible installations,
+#  you would normally specify tested versions too.
